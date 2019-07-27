@@ -6,10 +6,10 @@
 Для запуска web-сервера ввести в командной строке 'npm run start'.
 
 Запуск сервера:
+![](https://github.com/archibald2406/EY-test-task2-Web-server/blob/master/screenshots/1.png)
 
-
-(Задание 1): Схема базы данных для хранения данных из файлов формата xls по типу приложенного в задании:
-
+Схема базы данных для хранения данных из файлов формата xls по типу приложенного в задании:
+![](https://github.com/archibald2406/EY-test-task2-Web-server/blob/master/screenshots/2.png)
 
 Работа с excel-файлами и базой данных MySQL происходит с помошью роута index (файл index.js),
 который отвечает за адрес 'http://localhost:3000'. Работа соответсвующих роутов описана
