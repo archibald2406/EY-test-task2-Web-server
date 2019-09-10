@@ -3,7 +3,7 @@
 
 Для начала ввести в командной строке 'npm install' для установки всех необходимых модулей.
 
-Для запуска web-сервера ввести в командной строке 'npm run start'.
+Для запуска web-сервера ввести в командной строке 'node app'.
 
 Запуск сервера:
 ![](https://github.com/archibald2406/EY-test-task2-Web-server/blob/master/screenshots/1.png)
